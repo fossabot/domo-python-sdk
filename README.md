@@ -1,5 +1,6 @@
 # Python3 - Domo API SDK (pydomo)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://www.opensource.org/licenses/MIT)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdomoinc%2Fdomo-python-sdk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdomoinc%2Fdomo-python-sdk?ref=badge_shield)
 
 Current Release: 0.3.0
 
@@ -164,3 +165,7 @@ The functions in this package match most parts of the API documented at [develop
 	* **streams.commit_execution** - commit an Execution to finalize the upload
 	* **streams.abort_execution** - abort an Execution
 	* **streams.abort_current_execution** - abort the currently active Execution
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdomoinc%2Fdomo-python-sdk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdomoinc%2Fdomo-python-sdk?ref=badge_large)
